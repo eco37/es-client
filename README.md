@@ -1,4 +1,4 @@
-# es-client
+# ES-Client
 
 ```
 usage: es-client.py [-h] [-H HOSTNAME] [-p PORT] [-c COMMANDS [COMMANDS ...]]
